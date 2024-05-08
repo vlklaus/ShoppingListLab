@@ -1,0 +1,14 @@
+C:\Users\Victoria\source\repos\050724 Shopping List Lab\050724 Shopping List Lab\bin\Debug\net8.0\050724 Shopping List Lab.exe
+C:\Users\Victoria\source\repos\050724 Shopping List Lab\050724 Shopping List Lab\bin\Debug\net8.0\050724 Shopping List Lab.deps.json
+C:\Users\Victoria\source\repos\050724 Shopping List Lab\050724 Shopping List Lab\bin\Debug\net8.0\050724 Shopping List Lab.runtimeconfig.json
+C:\Users\Victoria\source\repos\050724 Shopping List Lab\050724 Shopping List Lab\bin\Debug\net8.0\050724 Shopping List Lab.dll
+C:\Users\Victoria\source\repos\050724 Shopping List Lab\050724 Shopping List Lab\bin\Debug\net8.0\050724 Shopping List Lab.pdb
+C:\Users\Victoria\source\repos\050724 Shopping List Lab\050724 Shopping List Lab\obj\Debug\net8.0\050724 Shopping List Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victoria\source\repos\050724 Shopping List Lab\050724 Shopping List Lab\obj\Debug\net8.0\050724 Shopping List Lab.AssemblyInfoInputs.cache
+C:\Users\Victoria\source\repos\050724 Shopping List Lab\050724 Shopping List Lab\obj\Debug\net8.0\050724 Shopping List Lab.AssemblyInfo.cs
+C:\Users\Victoria\source\repos\050724 Shopping List Lab\050724 Shopping List Lab\obj\Debug\net8.0\050724 Shopping List Lab.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\source\repos\050724 Shopping List Lab\050724 Shopping List Lab\obj\Debug\net8.0\050724 Shopping List Lab.dll
+C:\Users\Victoria\source\repos\050724 Shopping List Lab\050724 Shopping List Lab\obj\Debug\net8.0\refint\050724 Shopping List Lab.dll
+C:\Users\Victoria\source\repos\050724 Shopping List Lab\050724 Shopping List Lab\obj\Debug\net8.0\050724 Shopping List Lab.pdb
+C:\Users\Victoria\source\repos\050724 Shopping List Lab\050724 Shopping List Lab\obj\Debug\net8.0\050724 Shopping List Lab.genruntimeconfig.cache
+C:\Users\Victoria\source\repos\050724 Shopping List Lab\050724 Shopping List Lab\obj\Debug\net8.0\ref\050724 Shopping List Lab.dll

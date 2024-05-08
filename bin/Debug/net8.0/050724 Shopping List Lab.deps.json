@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "050724 Shopping List Lab/1.0.0": {
+        "runtime": {
+          "050724 Shopping List Lab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "050724 Shopping List Lab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
